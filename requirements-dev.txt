@@ -1,0 +1,2 @@
+# Used only by scripts/validate.py; not an omics analysis environment.
+PyYAML==6.0.3

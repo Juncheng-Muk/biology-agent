@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biology Agent · 生物信息学与组学"
+  short_description: "协调组学数据质控、统计分析、生物学解释与科研写作，并复核关键证据"
+  default_prompt: "使用 $biology-agent 分析我的生物信息学或组学研究问题，先确认样本设计与数据状态，再调配必要的 agent 完成可复现分析和生物学解释。"

@@ -1,0 +1,7 @@
+sample_id	donor_id	condition	batch	reported_cells
+S01	D01	A	batch_1	8000
+S02	D02	A	batch_1	8500
+S03	D03	A	batch_1	8500
+S04	D04	B	batch_2	8200
+S05	D05	B	batch_2	8300
+S06	D06	B	batch_2	8500
